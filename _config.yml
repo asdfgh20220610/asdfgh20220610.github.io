@@ -1,0 +1,11 @@
+title: BAMBOO's Blog
+description: Share and Creativity
+theme: jekyll-theme-primer
+baseurl: ""
+url: "https://asdfgh20220610.github.io"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
