@@ -1,6 +1,6 @@
 ---
 title: 文章标题
-date: YYYY-MM-DD
+date: 2024-01-20
 description: 在这里写文章简介
 tags: [标签1, 标签2]
 ---
